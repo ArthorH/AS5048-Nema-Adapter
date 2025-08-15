@@ -10,6 +10,16 @@
 
 ## In action
 ![ezgif-2eee3066bff45b](https://github.com/user-attachments/assets/9a4e0d9e-c4c3-4c2d-aaae-e2a80f63b909)
+
+# Interested in AMS? Here's other projects:
+- Backplane -> https://github.com/ArthorH/AriadnaModularSystem-Backplane
+- Power Injector -> https://github.com/ArthorH/AriadnaModularSystem-PowerInjector
+- AS5048 Nema Adapter -> https://github.com/ArthorH/AS5048-Nema-Adapter <----- You are here
+- OdriveShield -> https://github.com/ArthorH/AriadnaModularSystem-OdriveShield
+- PrototypeBoard -> https://github.com/ArthorH/AriadnaModularSystem-PrototypeBoard
+- Can Triplet -> https://github.com/ArthorH/AriadnaModularSystem-CanTriplet
+- RapsberryPie -> https://github.com/ArthorH/AriadnaModularSystem-RapsberryPie
+
 ## Author
 
 Artem Horiunov
